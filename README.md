@@ -1,8 +1,5 @@
 # FGUK_F-22_Remix
 A "remixed" and updated version of the FGUK F-22 aircraft for FlightGear.
-Created out of necessity due to the legal troubles surrounding another repo.
-
-Due to the legal troubles surrounding Pheonix's F-22, I created this repository to deal with that problem.
 
 This is licensed under GPL-v3.
 
